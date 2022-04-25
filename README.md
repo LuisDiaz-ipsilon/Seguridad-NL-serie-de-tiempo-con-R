@@ -4,4 +4,4 @@
 
 Utilizaremos el modelo ARIMA para crear la Serie de tiempo; Con la funcion forecast crearemos la prediccion en base a los datos de la serie de tiempo.
 
-### :warning: ADVERTENCIA: La informacion mostrada contenida no trata de describir la realidad, tomese como un ejercicio academico sin ninguno otro fin.
+### :warning: ADVERTENCIA: La informacion contenida no trata de describir la realidad, tomese como un ejercicio academico sin ninguno otro fin.
